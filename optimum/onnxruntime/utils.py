@@ -91,6 +91,7 @@ class ORTConfigManager:
         "deberta": "bert",
         "deberta-v2": "bert",
         "distilbert": "bert",
+        "mpnet": "bert",
         "electra": "bert",
         "gpt2": "gpt2",
         "gpt_neo": "gpt2",
